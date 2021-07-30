@@ -1,0 +1,10 @@
+---
+name: default
+
+attributes:
+  - name: vpc_id
+    required: true
+  - name: vpc_name
+    required: true
+  - name: security_group_ids
+    required: true
